@@ -1,4 +1,3 @@
-﻿<br>
 ##1) Crie uma aplicação capaz de identificar a faixa etária com base na idade informada pelo usuário. Considere os seguintes critérios: 
 Se a idade informada for maior ou igual a 0 e menor que 15, exibir a mensagem “Criança”. 
 <hr>
