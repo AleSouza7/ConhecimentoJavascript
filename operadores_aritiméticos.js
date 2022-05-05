@@ -20,9 +20,9 @@ document.write('O Pré Incremento ++ a esquerda soma 1 unidade ao valor da vari�
 
 document.write('O Pré Incremento ++ a esquerda soma 1 unidade ao valor da variável no momento que entra comando '+ num2 +' é :</br></br><strong>' + (++num2) +'</strong></br></br><hr></br>')
 
-document.write('O Pré Decremento -- a esquerda diminiu 1 unidade do valor da variável no momento que entra comando '+ num1 +' é :</br></br><strong>' + (++num1) +'</strong></br></br><hr></br>')
+document.write('O Pré Decremento -- a esquerda diminiu 1 unidade do valor da variável no momento que entra comando '+ num1 +' é :</br></br><strong>' + (--num1) +'</strong></br></br><hr></br>')
 
-document.write('O Pré Decremento -- a esquerda diminiu 1 unidade do valor da variável no momento que entra comando '+ num2 +' é :</br></br><strong>' + (++num2) +'</strong></br></br><hr></br>')
+document.write('O Pré Decremento -- a esquerda diminiu 1 unidade do valor da variável no momento que entra comando '+ num2 +' é :</br></br><strong>' + (--num2) +'</strong></br></br><hr></br>')
 
 
 document.write('O Pós Incremento ++ a direita só soma 1 unidade ao valor da variável, após passar pelo comando '+ num1 +' mantendo o valor :</br></br><strong>' + (num1++) +'</strong></br></br>')
@@ -40,12 +40,3 @@ document.write('</br></br><hr></br>')
 document.write('O Pós Decremento -- a direita diminiu 1 unidade do valor da variável após passar pelo comando '+ num2 +' mantendo o valor :</br></br><strong>' + (num2--) +'</strong></br></br></br>')
 document.write('Pós Decremento -- a direita somou + 1 resultando em <strong>' + num2 +'</strong>')
 document.write('</br></br><hr></br>')
-
-
-
-
-
-
-
-
-
