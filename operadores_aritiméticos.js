@@ -34,9 +34,9 @@ document.write('Pós Incremento ++ a direita somou + 1 resultando em <strong>' +
 document.write('</br></br><hr></br>')
 
 document.write('O Pós Decremento -- a direita diminiu 1 unidade do valor da variável após passar pelo comando '+ num1 +' mantendo o valor :</br></br><strong>' + (num1--) +'</strong></br></br></br>')
-document.write('Pós Decremento -- a direita somou + 1 resultando em <strong>' + num1 +'</strong>')
+document.write('Pós Decremento -- a direita somou - 1 resultando em <strong>' + num1 +'</strong>')
 document.write('</br></br><hr></br>')
 
 document.write('O Pós Decremento -- a direita diminiu 1 unidade do valor da variável após passar pelo comando '+ num2 +' mantendo o valor :</br></br><strong>' + (num2--) +'</strong></br></br></br>')
-document.write('Pós Decremento -- a direita somou + 1 resultando em <strong>' + num2 +'</strong>')
+document.write('Pós Decremento -- a direita somou - 1 resultando em <strong>' + num2 +'</strong>')
 document.write('</br></br><hr></br>')
