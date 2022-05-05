@@ -45,7 +45,8 @@ f) Se M estiver entre 30 e 34,99: Obesidade grau I
 g) Se M estiver entre 35 e 39,99: Obesidade grau II 
 </br><br>
 h) Se M for maior que 40: Obesidade grau III 
-</br>
+</br><br></br>
+
 8) Ao término o sistema deve fornecer a seguinte saída para o usuário: 
 “<Nome> possui índice de massa corporal igual a <m>, sendo classificado como: 
 <classificacao>.” 
