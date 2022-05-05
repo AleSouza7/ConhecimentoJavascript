@@ -10,6 +10,7 @@ Se a idade informada for maior ou igual a 30 e menor que 60, exibir a mensagem �
 <hr>
 Se a idade informada for maior ou igual a 60, exibir a mensagem “Idoso”. 
 <hr>
+<p>
 Fique à vontade para utilizar qualquer uma das funções aprendidas para exibição de dados 
 para o usuário.
 
@@ -41,3 +42,4 @@ h) Se M for maior que 40: Obesidade grau III
 <classificacao>.” 
 *As informações em vermelho são variáveis e devem ser substituídas pelos seus respectivos 
 valores calculadas dentro da aplicação.
+</p>
