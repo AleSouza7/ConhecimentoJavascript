@@ -16,13 +16,13 @@ document.write('A divisão de '+ num1 +' ÷ '+ num2 +' é :</br></br><strong>' +
 
 document.write('A módulo ou sobra da divisão entre '+ num1 +' % '+ num2 +' é :</br></br><strong>' + (num1 % num2)+'</strong></br></br><hr></br>')
 
-document.write('O Pré Incremento ++ a esquerda soma 1 unidade ao valor da variável no momento que entra comando '+ num1 +' é :</br></br><strong>' + (++num1) +'</strong></br></br><hr></br>')
+document.write('O Pré Incremento ++ a esquerda soma 1 unidade ao valor da variável no momento que entra comando '+ num1 +' passa a ser :</br></br><strong>' + (++num1) +'</strong></br></br><hr></br>')
 
-document.write('O Pré Incremento ++ a esquerda soma 1 unidade ao valor da variável no momento que entra comando '+ num2 +' é :</br></br><strong>' + (++num2) +'</strong></br></br><hr></br>')
+document.write('O Pré Incremento ++ a esquerda soma 1 unidade ao valor da variável no momento que entra comando '+ num2 +' passa a ser :</br></br><strong>' + (++num2) +'</strong></br></br><hr></br>')
 
-document.write('O Pré Decremento -- a esquerda diminiu 1 unidade do valor da variável no momento que entra comando '+ num1 +' é :</br></br><strong>' + (--num1) +'</strong></br></br><hr></br>')
+document.write('O Pré Decremento -- a esquerda diminiu 1 unidade do valor da variável no momento que entra comando '+ num1 +' passa a ser :</br></br><strong>' + (--num1) +'</strong></br></br><hr></br>')
 
-document.write('O Pré Decremento -- a esquerda diminiu 1 unidade do valor da variável no momento que entra comando '+ num2 +' é :</br></br><strong>' + (--num2) +'</strong></br></br><hr></br>')
+document.write('O Pré Decremento -- a esquerda diminiu 1 unidade do valor da variável no momento que entra comando '+ num2 +' passa a ser :</br></br><strong>' + (--num2) +'</strong></br></br><hr></br>')
 
 
 document.write('O Pós Incremento ++ a direita só soma 1 unidade ao valor da variável, após passar pelo comando '+ num1 +' mantendo o valor :</br></br><strong>' + (num1++) +'</strong></br></br>')
