@@ -35,7 +35,7 @@ var peso = prompt('Digite o seu peso: ')
 altura = parseFloat(altura); 
 peso = parseFloat(peso); 
 altura/=100
-document.write('Sua altura é '+ altura + ' 	e seu peso a atual é '+peso +' Kg')
+document.write('Sua altura é '+ altura + ' 	e seu peso atual é '+peso +' Kg')
 document.write('</br></br>')
 var imc = parseInt(peso / (altura*altura))
 document.write('O valor atual do seu IMC esta em: ' + imc)
@@ -61,6 +61,6 @@ if (imc < 16) {// a) Se M estiver abaixo de 16 : Baixo peso muito grave
 	classificacao = ('Obesidade grau III')
 }
 
-document.write(nome + ' voçê possui um índice de massa corporal, igual a ' + imc + ' sendo classificado como: <strong><h3><br>' + classificacao + '</br></h3></strong>'); 
+document.write(nome + ' você possui um índice de massa corporal, igual a ' + imc + ' sendo classificado: <strong><h3><br>' + classificacao + '</br></h3></strong>'); 
 
 document.write('</br></br></br></br>')
