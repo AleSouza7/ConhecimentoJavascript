@@ -13,6 +13,8 @@ Se a idade informada for maior ou igual a 60, exibir a mensagem “Idoso”.
 <p>
 Fique à vontade para utilizar qualquer uma das funções aprendidas para exibição de dados 
 para o usuário.
+  
+  <hr><br></br><hr>
 
 1) Crie uma aplicação para efetuar o cálculo do índice de massa corporal. 
 Considere os seguintes critérios:
