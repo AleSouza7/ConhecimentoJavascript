@@ -8,3 +8,13 @@ body{
     text-align: center;
     background-color: lightyellow;
 }
+.menu{
+    height: 50px;
+    padding-top: 20px;
+    text-align: center;   
+}
+
+.menu a{
+    text-decoration: underline;
+    padding-right: 8px;
+}
