@@ -37,7 +37,7 @@ peso = parseFloat(peso);
 altura/=100
 document.write('Sua altura é '+ altura + ' 	e seu peso atual é '+peso +' Kg')
 document.write('</br></br>')
-var imc = parseInt(peso / (altura*altura))
+var imc = Math.round(peso / (altura*altura))
 document.write('O valor atual do seu IMC esta em: ' + imc)
 document.write('</br></br>')
 
